@@ -2,5 +2,6 @@
 using namespace std;
 int main()
 {
-	cout<<"Hello!my name is WangTingYu!";
+	cout<<"Hello!My name is WangTingYu!"<<endl;
+	cout<<"Hello!My name is ShenBo!"<<endl;
 }
